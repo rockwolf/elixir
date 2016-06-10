@@ -1,0 +1,2 @@
+defmodule LibCalculatorFinance do
+end
