@@ -1,1 +1,3 @@
-"= elixir" 
+= elixir 
+
+Web application in elixir, using the phoenix framework.
